@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@microsoft/fast-components": "^1.21.5",
+    "@microsoft/fast-element": "^1.4.0",
+    "lodash-es": "^4.17.21"
+  }
+}
